@@ -1,0 +1,23 @@
+.nav {
+  grid-area: n;
+}
+
+.refsList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: cornflowerblue;
+}
+
+.item {
+  font-size: 24px;
+}
+
+.link {
+  color: #fff;
+}
+
+.link.active {
+  color: gold;
+}
