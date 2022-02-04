@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import s from './Navbar.module.css';
 
 export default function Navbar() {
@@ -5,29 +6,29 @@ export default function Navbar() {
     <nav className={s.nav}>
       <ul className={s.refsList}>
         <li className={s.item}>
-          <a className={`${s.link} ${s.active}`} href="#s">
+          <NavLink to="/profile" className={s.link} activeClassName={s.active}>
             Profile
-          </a>
+          </NavLink>
         </li>
         <li className={s.item}>
-          <a className={s.link} href="#s">
+          <NavLink to="/dialogs" className={s.link} activeClassName={s.active}>
             Messages
-          </a>
+          </NavLink>
         </li>
         <li className={s.item}>
-          <a className={s.link} href="#s">
+          <NavLink to="/news" className={s.link} activeClassName={s.active}>
             News
-          </a>
+          </NavLink>
         </li>
         <li className={s.item}>
-          <a className={s.link} href="#s">
+          <NavLink to="/music" className={s.link} activeClassName={s.active}>
             Music
-          </a>
+          </NavLink>
         </li>
         <li className={s.item}>
-          <a className={s.link} href="#s">
+          <NavLink to="/settings" className={s.link} activeClassName={s.active}>
             Settings
-          </a>
+          </NavLink>
         </li>
       </ul>
     </nav>

@@ -1,3 +1,10 @@
 .header {
   grid-area: h;
+  background-color: cornflowerblue;
+}
+
+.logo {
+  background-color: transparent;
+  border-radius: 50%;
+  padding: 15px;
 }

@@ -5,13 +5,17 @@
 .refsList {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 30px;
   height: 100%;
   background-color: cornflowerblue;
 }
 
 .item {
   font-size: 24px;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
 }
 
 .link {

@@ -1,0 +1,7 @@
+.dialogsItem:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.active {
+  color: gold;
+}

@@ -1,0 +1,24 @@
+.newPost {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.message {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.button {
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  background-color: cornflowerblue;
+  padding: 5px 10px;
+  transition: background-color 250ms linear;
+}
+
+.button:hover,
+.button:focus {
+  background-color: green;
+}

@@ -1,0 +1,27 @@
+.wrapper {
+  width: 100%;
+}
+
+.headerImage {
+  width: 100%;
+}
+
+.main {
+  padding: 10px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.description {
+  margin-left: 15px;
+}
