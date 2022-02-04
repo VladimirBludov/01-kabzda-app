@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/01-kabzda-app/static/css/main.72cbf41d.chunk.css",
-    "main.js": "/01-kabzda-app/static/js/main.719a1cd2.chunk.js",
-    "main.js.map": "/01-kabzda-app/static/js/main.719a1cd2.chunk.js.map",
+    "main.css": "/01-kabzda-app/static/css/main.43d8dbde.chunk.css",
+    "main.js": "/01-kabzda-app/static/js/main.cc8a46a6.chunk.js",
+    "main.js.map": "/01-kabzda-app/static/js/main.cc8a46a6.chunk.js.map",
     "runtime-main.js": "/01-kabzda-app/static/js/runtime-main.52c03b7a.js",
     "runtime-main.js.map": "/01-kabzda-app/static/js/runtime-main.52c03b7a.js.map",
     "static/css/2.c79dbdbc.chunk.css": "/01-kabzda-app/static/css/2.c79dbdbc.chunk.css",
-    "static/js/2.4641e97d.chunk.js": "/01-kabzda-app/static/js/2.4641e97d.chunk.js",
-    "static/js/2.4641e97d.chunk.js.map": "/01-kabzda-app/static/js/2.4641e97d.chunk.js.map",
+    "static/js/2.49289b70.chunk.js": "/01-kabzda-app/static/js/2.49289b70.chunk.js",
+    "static/js/2.49289b70.chunk.js.map": "/01-kabzda-app/static/js/2.49289b70.chunk.js.map",
     "index.html": "/01-kabzda-app/index.html",
     "static/css/2.c79dbdbc.chunk.css.map": "/01-kabzda-app/static/css/2.c79dbdbc.chunk.css.map",
-    "static/css/main.72cbf41d.chunk.css.map": "/01-kabzda-app/static/css/main.72cbf41d.chunk.css.map",
-    "static/js/2.4641e97d.chunk.js.LICENSE.txt": "/01-kabzda-app/static/js/2.4641e97d.chunk.js.LICENSE.txt"
+    "static/css/main.43d8dbde.chunk.css.map": "/01-kabzda-app/static/css/main.43d8dbde.chunk.css.map",
+    "static/js/2.49289b70.chunk.js.LICENSE.txt": "/01-kabzda-app/static/js/2.49289b70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.52c03b7a.js",
     "static/css/2.c79dbdbc.chunk.css",
-    "static/js/2.4641e97d.chunk.js",
-    "static/css/main.72cbf41d.chunk.css",
-    "static/js/main.719a1cd2.chunk.js"
+    "static/js/2.49289b70.chunk.js",
+    "static/css/main.43d8dbde.chunk.css",
+    "static/js/main.cc8a46a6.chunk.js"
   ]
 }
